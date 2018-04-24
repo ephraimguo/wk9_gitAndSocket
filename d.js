@@ -5,3 +5,5 @@ function d(){
 
 d();
 
+console.log('good weather');
+
