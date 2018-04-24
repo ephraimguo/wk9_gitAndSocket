@@ -5,3 +5,4 @@ function d(){
 
 d();
 
+console.log('nothing much');
