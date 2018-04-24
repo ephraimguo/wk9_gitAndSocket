@@ -1,5 +1,1 @@
-function d(){
-  console.log('file D');
-}
-
-d();
+console.log("idea d.js");
